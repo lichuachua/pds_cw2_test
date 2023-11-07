@@ -1,0 +1,23 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-04T19:55:33.875Z,37.5842,73.9941,10.0,4.5,mwr,49.0,105.0,2.557,0.56,us,us7000l8wg,2023-11-04T21:20:23.040Z,"65 km S of Murghob, Tajikistan",earthquake,7.15,1.892,0.052,36.0,reviewed,us,us
+2023-11-04T17:43:09.407Z,-19.6779,-175.6875,215.218,4.6,mb,33.0,151.0,1.552,1.05,us,us7000l8w5,2023-11-04T18:33:12.040Z,Tonga,earthquake,13.84,8.49,0.09,40.0,reviewed,us,us
+2023-11-04T16:23:47.747Z,-4.0351,127.3691,226.33,4.5,mb,26.0,72.0,2.574,0.51,us,us7000l8vy,2023-11-04T16:37:55.040Z,"97 km WSW of Ambon, Indonesia",earthquake,7.5,6.754,0.121,23.0,reviewed,us,us
+2023-11-04T14:03:24.481Z,14.0271,-91.5425,54.866,4.2,mb,25.0,178.0,1.716,0.75,us,us7000l8vc,2023-11-04T16:31:38.040Z,"32 km SW of Nueva Concepción, Guatemala",earthquake,4.83,17.899,0.084,39.0,reviewed,us,us
+2023-11-04T12:49:52.601Z,-20.5156,-177.8899,382.817,4.3,mb,45.0,78.0,2.595,0.75,us,us7000l8v5,2023-11-04T13:12:04.040Z,"278 km WNW of Houma, Tonga",earthquake,12.29,7.405,0.066,68.0,reviewed,us,us
+2023-11-04T12:26:00.906Z,20.2008,122.0072,11.274,4.4,mb,52.0,101.0,2.743,0.86,us,us7000l8v3,2023-11-04T12:55:51.040Z,"27 km S of Basco, Philippines",earthquake,8.43,4.493,0.1,29.0,reviewed,us,us
+2023-11-04T11:00:36.451Z,6.7225,-73.078,158.062,4.6,mb,74.0,45.0,0.825,0.64,us,us7000l8uy,2023-11-04T11:48:59.040Z,northern Colombia,earthquake,9.53,8.188,0.029,344.0,reviewed,us,us
+2023-11-04T10:18:31.348Z,66.5496,-157.9695,15.0,3.2,ml,,,,0.83,ak,ak023e5jl5ox,2023-11-04T11:04:08.040Z,"52 km SW of Shungnak, Alaska",earthquake,,6.3,,,automatic,ak,ak
+2023-11-04T09:59:48.016Z,-5.9481,131.1265,101.529,4.5,mb,30.0,116.0,1.867,0.57,us,us7000l8up,2023-11-04T10:18:27.040Z,"183 km W of Tual, Indonesia",earthquake,9.46,7.13,0.105,27.0,reviewed,us,us
+2023-11-04T09:38:38.192Z,20.1401,147.7574,10.0,5.0,mb,64.0,83.0,7.077,0.78,us,us7000l8um,2023-11-04T15:48:50.171Z,Mariana Islands region,earthquake,10.92,1.864,0.033,287.0,reviewed,us,us
+2023-11-04T09:12:40.899Z,51.1361,179.1693,35.0,4.0,ml,37.0,196.0,0.902,0.45,us,us7000l8uf,2023-11-04T15:06:19.517Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,11.5,2.013,0.077,22.0,reviewed,us,us
+2023-11-04T09:01:33.534Z,59.4353,-152.6974,75.6,3.0,ml,,,,0.29,ak,ak023e5iw2sh,2023-11-04T09:12:48.040Z,"44 km W of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-11-04T08:12:52.505Z,51.097,179.0667,20.8,3.0,ml,,,,0.35,ak,ak023e5id1s5,2023-11-04T14:52:07.711Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2023-11-04T03:34:51.234Z,51.7889,174.0456,10.0,4.6,mb,64.0,129.0,0.943,0.83,us,us7000l8t9,2023-11-04T04:06:37.040Z,"131 km SSE of Attu Station, Alaska",earthquake,5.98,1.78,0.049,123.0,reviewed,us,us
+2023-11-04T01:28:02.983Z,39.0992,-97.5842,10.0,3.4,mb_lg,14.0,88.0,0.759,0.53,us,us7000l8sp,2023-11-04T18:16:48.288Z,"7 km N of Bennington, Kansas",earthquake,3.15,1.989,0.04,164.0,reviewed,us,us
+2023-11-04T01:23:10.558Z,-41.1703,-89.8059,10.0,4.8,mb,34.0,157.0,12.543,0.93,us,us7000l8t0,2023-11-04T03:15:03.040Z,southeast of Easter Island,earthquake,5.47,1.896,0.109,26.0,reviewed,us,us
+2023-11-04T00:53:25.200Z,19.2015,-155.488,32.03,3.02,ml,61.0,57.0,,0.12,hv,hv73638662,2023-11-04T20:29:44.133Z,"Hawaii region, Hawaii",earthquake,0.38,0.46,0.168014890996533,42.0,reviewed,hv,hv
+2023-11-04T00:25:40.565Z,-4.0444,128.9644,138.919,4.5,mb,45.0,52.0,1.051,0.73,us,us7000l8s5,2023-11-04T00:51:30.040Z,"78 km S of Amahai, Indonesia",earthquake,8.55,7.076,0.096,32.0,reviewed,us,us
+2023-11-04T00:18:29.503Z,1.0637,125.6396,65.088,4.5,mb,24.0,82.0,1.751,0.87,us,us7000l8s4,2023-11-04T02:48:07.009Z,"70 km SE of Bitung, Indonesia",earthquake,10.4,10.919,0.125,19.0,reviewed,us,us
+2023-11-03T23:31:52.210Z,19.8828333333333,-156.69,41.22,3.9,ml,59.0,212.0,,0.18,hv,hv73638622,2023-11-04T17:58:03.347Z,"76 km WNW of Kalaoa, Hawaii",earthquake,0.59,1.45,0.166357229729158,48.0,reviewed,hv,hv
+2023-11-03T22:31:35.325Z,29.0589,82.2652,10.0,4.0,mb,29.0,114.0,2.936,0.6,us,us7000l8rr,2023-11-04T16:00:59.202Z,"25 km SSE of Jumla, Nepal",earthquake,10.07,1.954,0.173,9.0,reviewed,us,us
+2023-11-03T21:48:22.910Z,47.7649,153.5117,10.0,4.8,mb,48.0,137.0,5.98,0.61,us,us7000l8rm,2023-11-03T23:35:50.040Z,Kuril Islands,earthquake,7.16,1.791,0.068,67.0,reviewed,us,us
