@@ -8,5 +8,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-04T00:25:40.565Z,-4.0444,128.9644,138.919,4.5,mb,45.0,52.0,1.051,0.73,us,us7000l8s5,2023-11-04T00:51:30.040Z,"78 km S of Amahai, Indonesia",earthquake,8.55,7.076,0.096,32.0,reviewed,us,us
 2023-11-04T19:55:33.875Z,37.5842,73.9941,10.0,4.5,mwr,49.0,105.0,2.557,0.56,us,us7000l8wg,2023-11-04T21:20:23.040Z,"65 km S of Murghob, Tajikistan",earthquake,7.15,1.892,0.052,36.0,reviewed,us,us
 2023-11-04T16:23:47.747Z,-4.0351,127.3691,226.33,4.5,mb,26.0,72.0,2.574,0.51,us,us7000l8vy,2023-11-04T16:37:55.040Z,"97 km WSW of Ambon, Indonesia",earthquake,7.5,6.754,0.121,23.0,reviewed,us,us
-2023-11-04T09:59:48.016Z,-5.9481,131.1265,101.529,4.5,mb,30.0,116.0,1.867,0.57,us,us7000l8up,2023-11-04T10:18:27.040Z,"183 km W of Tual, Indonesia",earthquake,9.46,7.13,0.105,27.0,reviewed,us,us
 2023-11-04T00:18:29.503Z,1.0637,125.6396,65.088,4.5,mb,24.0,82.0,1.751,0.87,us,us7000l8s4,2023-11-04T02:48:07.009Z,"70 km SE of Bitung, Indonesia",earthquake,10.4,10.919,0.125,19.0,reviewed,us,us
+2023-11-04T09:59:48.016Z,-5.9481,131.1265,101.529,4.5,mb,30.0,116.0,1.867,0.57,us,us7000l8up,2023-11-04T10:18:27.040Z,"183 km W of Tual, Indonesia",earthquake,9.46,7.13,0.105,27.0,reviewed,us,us

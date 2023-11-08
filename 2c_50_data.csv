@@ -49,8 +49,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-04T05:54:02.887Z,39.6315,-119.6417,7.0,2.0,ml,25.0,75.38,0.053,0.1928,nn,nn00868427,2023-11-04T14:14:03.931Z,"5 km ESE of Spanish Springs, Nevada",earthquake,,1.2,0.3,7.0,reviewed,nn,nn
 2023-11-04T05:18:48.090Z,44.4601666666667,-115.2205,5.08,1.94,ml,11.0,74.0,0.4442,0.08,mb,mb90031908,2023-11-04T14:19:30.060Z,"35 km NW of Stanley, Idaho",earthquake,0.28,0.84,0.325840810348808,12.0,reviewed,mb,mb
 2023-11-04T10:14:25.767Z,38.1181,-117.9861,5.2,1.9,ml,16.0,93.19,0.081,0.2087,nn,nn00868432,2023-11-04T10:17:10.328Z,"32 km SSE of Mina, Nevada",earthquake,,0.5,0.42,11.0,automatic,nn,nn
-2023-11-04T20:45:06.966Z,58.7017,-153.7006,15.8,1.9,ml,,,,0.58,ak,ak023e5pp7yg,2023-11-04T20:46:35.130Z,"Kodiak Island region, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-11-04T20:37:31.250Z,34.1373333,-117.433,3.6,1.9,ml,25.0,53.0,0.1076,0.25,ci,ci39707866,2023-11-04T20:41:05.967Z,"5 km NNE of Fontana, CA",earthquake,0.44,1.35,0.226,21.0,automatic,ci,ci
-2023-11-04T14:55:23.623Z,59.98,-139.5158,3.5,1.9,ml,,,,0.51,ak,ak023e5m6sru,2023-11-04T14:57:20.890Z,"49 km NNE of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-04T08:36:32.431Z,31.646,-104.306,4.0781,1.9,mlv,18.0,69.0,0.0,0.3,tx,tx2023vpom,2023-11-04T09:28:35.550Z,"59 km S of Whites City, New Mexico",earthquake,0.0,1.302804559,0.1,13.0,automatic,tx,tx
+2023-11-04T14:55:23.623Z,59.98,-139.5158,3.5,1.9,ml,,,,0.51,ak,ak023e5m6sru,2023-11-04T14:57:20.890Z,"49 km NNE of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-11-04T20:37:31.250Z,34.1373333,-117.433,3.6,1.9,ml,25.0,53.0,0.1076,0.25,ci,ci39707866,2023-11-04T20:41:05.967Z,"5 km NNE of Fontana, CA",earthquake,0.44,1.35,0.226,21.0,automatic,ci,ci
+2023-11-04T20:45:06.966Z,58.7017,-153.7006,15.8,1.9,ml,,,,0.58,ak,ak023e5pp7yg,2023-11-04T20:46:35.130Z,"Kodiak Island region, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-03T21:54:31.411Z,60.9532,-150.7064,34.4,1.9,ml,,,,0.21,ak,ak023e42taed,2023-11-03T21:55:59.825Z,"Kenai Peninsula, Alaska",earthquake,,0.5,,,automatic,ak,ak
